@@ -21,5 +21,7 @@
 	<script>
 	수정하기2
 	안녕하세요
+	수정하기 3
+	수정하기 4
 	</script>
 <%@ include file="../module/bottom.jsp" %>  
