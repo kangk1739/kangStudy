@@ -23,5 +23,6 @@
 	안녕하세요
 	수정하기 3
 	수정하기 4
+	강석인 수정
 	</script>
 <%@ include file="../module/bottom.jsp" %>  
