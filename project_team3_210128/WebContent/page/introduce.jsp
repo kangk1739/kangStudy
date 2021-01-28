@@ -21,5 +21,6 @@
 	<script>
 	수정하기2
 	안녕하세요
+	아몰라
 	</script>
 <%@ include file="../module/bottom.jsp" %>  
