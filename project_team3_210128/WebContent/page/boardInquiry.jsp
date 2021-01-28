@@ -28,5 +28,5 @@
 		<div class="contents"></div>
 	</div>
 	
-	
+	강석인 수정
 <%@ include file="../module/bottom.jsp" %>  
