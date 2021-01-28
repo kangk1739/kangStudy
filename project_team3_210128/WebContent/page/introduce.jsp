@@ -21,5 +21,6 @@
 	<script>
 	수정하기2
 	안녕하세요
+	우주씨 바보
 	</script>
 <%@ include file="../module/bottom.jsp" %>  
