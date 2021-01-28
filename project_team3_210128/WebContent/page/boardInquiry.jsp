@@ -27,6 +27,6 @@
 		<div class="contents"></div>
 		<div class="contents"></div>
 	</div>
-	심재학 변경
-	
+
+	강석인 수정
 <%@ include file="../module/bottom.jsp" %>  
