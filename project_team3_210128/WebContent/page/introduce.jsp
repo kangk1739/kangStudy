@@ -19,12 +19,9 @@
 		</div>
 	</section>
 	<script>
-<<<<<<< HEAD
+
 	수정하기2
 	안녕하세요
-=======
-	
-	
->>>>>>> parent of 2637e2a... 123
+
 	</script>
 <%@ include file="../module/bottom.jsp" %>  
