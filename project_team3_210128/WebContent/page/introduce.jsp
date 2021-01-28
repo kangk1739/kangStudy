@@ -19,7 +19,7 @@
 		</div>
 	</section>
 	<script>
-	수정하기
+	수정하기2
 	
 	</script>
 <%@ include file="../module/bottom.jsp" %>  
